@@ -1,0 +1,17 @@
+###Para ver o status dos arquivos
+git status
+
+###para adicionar na arvore de commit
+git add . ou git add /caminho do arquivo
+
+### para commitar
+git commit -m "Mensagem" 
+
+###para subir no git remoto
+git push origin main ou nome da branch
+
+##para iniciar o git - cria um repositório
+git init
+
+
+
